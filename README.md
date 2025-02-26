@@ -1,9 +1,11 @@
 # Bank-Customer-Churn-Prediction-Kaggle
 Este projeto visa prever a saída de clientes de um banco (churn) utilizando técnicas de Machine Learning. O modelo final é um ensemble de LightGBM e Gradient Boosting.
 
+![fish_jump](images/fish.jpg)
+
 # Bank Customer Churn Prediction
 
-Este projeto tem como objetivo prever a saída de clientes de um banco (churn) utilizando técnicas de Machine Learning. O modelo final foi desenvolvido utilizando um ensemble de LightGBM e Gradient Boosting, com um foco em maximizar o F1-score.
+Este projeto tem como objetivo prever a saída de clientes de um banco (churn) utilizando técnicas de Machine Learning. A base utilizada está diponível no [Kaggle](https://www.kaggle.com/competitions/problem1-bank-customer-churn-prediction/overview).O modelo final foi desenvolvido utilizando um ensemble de LightGBM e Gradient Boosting, com um foco em maximizar o F1-score.
 
 ## Estrutura do Projeto
 
